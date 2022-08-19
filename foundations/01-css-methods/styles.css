@@ -4,6 +4,7 @@ div {
     color: white;
     background-color: red;
     text-align: center;
-    font-size: large;
+    font-size: largest;
+    font-weight: bolder;
     font-family: Arial, Helvetica, sans-serif;
 }
