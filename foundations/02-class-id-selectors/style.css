@@ -1,0 +1,22 @@
+/*styles.css*/
+
+.primary{
+    background-color: #DD6666;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#first{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#second{
+    background-color: #33DD33;
+    font-size: 24px;
+    font-weight: bold;
+}
+
